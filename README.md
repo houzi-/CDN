@@ -4,7 +4,7 @@
 
 | Alipay | Wechat | 
 | :------: | :------: | 
-| <img width="150" src="./CDN/image/alipay.png"> | <img width="150" src="./CDN/image/wechat.png"> | 
+| <img width="150" src="./image/alipay.png"> | <img width="150" src="./image/wechat.png"> | 
 
 ❤❤❤
 
