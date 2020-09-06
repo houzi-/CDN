@@ -1,6 +1,6 @@
-!x  -----------------------------------------------------------------------------------------------------------------
+﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.4]
-!x  -----update[rules]: 2020-09-06 15:35
+!x  -----update[rules]: 2020-08-11 22:22
 !x  -----update[video]: 2020-07-19 09:32
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
@@ -4210,7 +4210,6 @@
 |https://stats.chinaz.com/zz_img/$script
 |https://stats.chinaz.com/gj_g/
 |https://stats.chinaz.com/zx_g/
-|https://stats.chinaz.com/news.js
 |https://stats.chinaz.com/tools_img/tool_$script
 |https://static0.tuicool.com/images/upload/java303.jpg
 |https://static0.tuicool.com/images/upload/aliyun001.jpg
@@ -4238,7 +4237,6 @@
 |https://www.80s.tw/80sad/80s.js
 |https://www.880sy.com/Public/js/huanleren.js$script
 !|https://www.cnbeta.com/js/pages/inteladv.js
-|https://www.chinaz.com/section
 |https://www.cjyyyy.cn/AdvertProject/
 |https://www.cw.com.tw/*/ad.
 |https://www.cw.com.tw/*/dfp_js/*
@@ -8220,7 +8218,7 @@
 |https://www.imeiju.cc/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.javbus.work/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.javbus.work/$s@</body>@<script>fuckcss('.ad-list')</script></body>@
-|$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
+|https://www.kafan.cn/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.kafan.cn/$s@</body>@<script>fuckcss('p:contains(腾讯视频),p:contains(理论永久)');</script></body>@
 |https://www.lanzous.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.meijutt.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
@@ -11661,9 +11659,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://www.autohome.com.cn##.column > div[id^="s"]:first-child:last-child
 |https://www.ali213.net##DIV.ad-widget-imageplus.ad-widget-imageplus-box,DIV[id^="f21ac82b21eeb7322631b6aa94e17f"],DIV.newright,div[id^="ali-ad-js-"],[id^="ali-js-"]
 |https://www.chinaz.com##.topTsRight,.Mnav-right02,#side-media2,#bgad
-|https://www.chinaz.com##.header-media__text
-|https://www.chinaz.com##[src^="//stats.chinaz.com/
-zx_g/"],div.ad_box,div#navAfter,div#centerImg,div.mb10.clearfix,div.mtb10.clearfix,div[class="mt10"],div[class="mt20"],div[id^="pic_ad"],div#view_pic,div.topbanner,div#banneright,iframe[src^="http://stats.chinaz.com/tool/"],.adsbygoogle,.adbox,.adbox2,#topTxt,#topImg,#centerTxt,.txtAdBox,[class="mb10"],[class="mb20 clearfix"],[class="mb20 mt10"],.fotatxtd,div.ad,div.etc-b-head,div.etc-t-head,.topTsRight,.Mnav-right02,.plate-layout.img_wrap_l,.newsMainBox-textad,.recommendsoft
+|https://www.chinaz.com##[src^="//stats.chinaz.com/zx_g/"],div.ad_box,div#navAfter,div#centerImg,div.mb10.clearfix,div.mtb10.clearfix,div[class="mt10"],div[class="mt20"],div[id^="pic_ad"],div#view_pic,div.topbanner,div#banneright,iframe[src^="http://stats.chinaz.com/tool/"],.adsbygoogle,.adbox,.adbox2,#topTxt,#topImg,#centerTxt,.txtAdBox,[class="mb10"],[class="mb20 clearfix"],[class="mb20 mt10"],.fotatxtd,div.ad,div.etc-b-head,div.etc-t-head,.topTsRight,.Mnav-right02,.plate-layout.img_wrap_l,.newsMainBox-textad,.recommendsoft
 |https://www.cw.com.tw##div[id^="div-gpt-ad"]
 |https://www.cw.com.tw##.content-ad
 |https://www.hao123.com##DIV#ecom,A.tip[monkey="righttip"],div.widget-topbanner,div.g-wd.topbanner-inner,.idiv.g-wd,#navrecommend-top
