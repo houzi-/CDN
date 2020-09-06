@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.4]
-!x  -----update[rules]: 2020-08-11 22:22
-!x  -----update[video]: 2020-07-19 09:32
+!x  -----update[rules]: 2020-09-06 23:00
+!x  -----update[video]: 2020-09-06 23:30
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -4237,6 +4237,7 @@
 |https://www.80s.tw/80sad/80s.js
 |https://www.880sy.com/Public/js/huanleren.js$script
 !|https://www.cnbeta.com/js/pages/inteladv.js
+|https://www.chinaz.com/section
 |https://www.cjyyyy.cn/AdvertProject/
 |https://www.cw.com.tw/*/ad.
 |https://www.cw.com.tw/*/dfp_js/*
@@ -4417,6 +4418,7 @@
 ||https://f8dy.tv/template/m1938/js/b
 ||https://f8dy.tv/template/m1938/js/foot.js
 ||https://fchio.com^
+||https://gtimg.com/sports/*.swf
 ||https://gamersky.com/*.tg.
 ||https://gamersky.com/common/tg/
 ||https://gamersky.com/picf/$document
@@ -4500,6 +4502,7 @@
 ||https://sogoucdn.com/nstatic/js/tmallskin_
 ||https://ssl-youtube.2cnt.net
 ||https://static.arm.youku.com/idea/
+|https://stats.chinaz.com/news.js
 ||https://tanx.com^$third-party,domain=~tmall.com|~uc123.com|~taobao.com
 ||https://taboola.com/libtrc/cnbeta-english/loader.js
 ||https://truvidplayer.com^
@@ -11659,6 +11662,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://www.autohome.com.cn##.column > div[id^="s"]:first-child:last-child
 |https://www.ali213.net##DIV.ad-widget-imageplus.ad-widget-imageplus-box,DIV[id^="f21ac82b21eeb7322631b6aa94e17f"],DIV.newright,div[id^="ali-ad-js-"],[id^="ali-js-"]
 |https://www.chinaz.com##.topTsRight,.Mnav-right02,#side-media2,#bgad
+|https://www.chinaz.com##.header-media__text
 |https://www.chinaz.com##[src^="//stats.chinaz.com/zx_g/"],div.ad_box,div#navAfter,div#centerImg,div.mb10.clearfix,div.mtb10.clearfix,div[class="mt10"],div[class="mt20"],div[id^="pic_ad"],div#view_pic,div.topbanner,div#banneright,iframe[src^="http://stats.chinaz.com/tool/"],.adsbygoogle,.adbox,.adbox2,#topTxt,#topImg,#centerTxt,.txtAdBox,[class="mb10"],[class="mb20 clearfix"],[class="mb20 mt10"],.fotatxtd,div.ad,div.etc-b-head,div.etc-t-head,.topTsRight,.Mnav-right02,.plate-layout.img_wrap_l,.newsMainBox-textad,.recommendsoft
 |https://www.cw.com.tw##div[id^="div-gpt-ad"]
 |https://www.cw.com.tw##.content-ad
@@ -11709,6 +11713,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://m.blog.csdn.net##[width="400"]
 |https://share.acgnx.se##img[src="/images/gDqF4N4b.png"],img[src="/images/cjTQH5PQ.png"]
 |https://sports.eastday.com##a[class="dalink"]
+|https://sports.qq.com##.l_qq_com,#focus_jordon,.adright,.txp_ad_link,.layout.mt35,div[class^=ad-type-],.adsBox,.ad-banner
 |https://tt.mop.com##DIV.tt-read:nth-child(4) > DIV.w1000.mlra:first-child > DIV.clearfix.mt10:last-child > DIV.tt-rLeft.fl:first-child > DIV.mt20.clearfix:nth-child(4)
 |https://v.ifeng.com##.v_adbox,#client-spread,div.topAdBox,div.vAdbox,div.v-adbox,div.w_code,.vPlayerAdbox
 |https://www.oschina.net##a[name="question_banner_one"],div.google_ads,img[src^="http://static.oschina.net/uploads/cooperation/question_banner"],img[src^="http://static.oschina.net/uploads/ad/"],ins.adsbygoogle,#project_ad_banner,[src^="http://static.oschina.net/uploads/cooperation/index_banner_"],[width="300"][height="250"],#blog-title-ad,[data-tracepid^="index_banner"],.news-banner,[data-traceid$="_ad"],[data-traceid^="questionbanner"],[class$="_ad"],[class$="-ad"],[data-tracepid="question_detai_above"],.float_adbox,[src="/banner-aliyun.jpg"],.ad-wrap
