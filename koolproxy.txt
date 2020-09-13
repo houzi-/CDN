@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
-!x  -----[KoolProxy 3.8.4]
-!x  -----update[rules]: 2020-09-06 23:00
+!x  -----[KoolProxy 3.8.5]
+!x  -----update[rules]: 2020-09-13 17:00
 !x  -----update[video]: 2020-09-06 23:30
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
@@ -454,6 +454,7 @@
 @@@@|https://appcloud.zhihu.com
 @@@@|https://amonsul.douban.com
 @@@@|https://baidustatic.com$domain=xoyo.com
+@@@@|https://bizapi.csdn.net/download-console-api/
 @@@@|https://cache.video.iqiyi.com
 @@@@|https://comment-card.iqiyi.com
 @@@@|https://comment.api.163.com
@@ -4064,6 +4065,7 @@
 |https://123.sogou.com/uniplan/?pageID=
 |https://a.msstatic.com/huya/main3/widget/roomGgChat/
 |https://a.msstatic.com/huya/main3/widget/roomGgTop/
+|https://a.exdynsrv.com/fp-interstitial.js
 |https://ax.ifeng.com
 |https://acg.gamersky.com/gsinc/content_bg.js$script
 |https://api.gamer.com.tw/mobile_app/ad/
@@ -4158,6 +4160,7 @@
 |https://inrecsys.popin.cc/PopinService/Logs/ad?data
 |https://isitecdn.azureedge.net/wp-content/cache/minify/904ff.js
 |https://ivy.pconline.com.cn^
+|https://www.jfsdiwmnbsk008.top:18443/
 |https://j.gamersky.com/web2015/js/index_top_ad_1.js$script
 |https://ja.gamersky.com/
 |https://jsjs.nthyn.com/
@@ -4282,9 +4285,11 @@
 |https://www.youtube.com/get_midroll_
 |https://www.youtube.com/player_204?^
 |https://www.youtube.com/ptracking?
+|https://www.zhenbuka.com/gg/
 |https://www.zhihu.com/api/*banners/
 |https://www.zimuku.*/images/v2/js/b.js
 |https://www.gamersky.com/autoinc/allsite/ja/T300_zq.htm
+|https://xg.zhlzdhr.cn/coding/
 |https://yes1.feng.com/js.php?n=
 |https://yes1.feng.com/x.js
 |https://youtube.com/ptracking?
@@ -4379,6 +4384,7 @@
 ||https://bmuju.com^
 ||https://cnzz.com/z_stat.php?id=
 ||https://casbanlly.com^
+||https://cathaycentury.com^
 ||https://cacafly.net^
 ||https://couchcoaster.jp
 ||https://crt.comodoca.com
@@ -4401,6 +4407,8 @@
 ||https://dlads.cn^
 ||https://dwz.cn/
 ||https://dy2018.com/e/public/ViewClick/?classid=
+||https://dy2018.com/js/tj.js
+||https://dy2018.com/jsdd/
 ||https://doubleclick.net^
 ||https://duote.com/duoteimg/dtnew_recom_img/duoteself/
 ||https://doubanio.com^*/js/ad.
@@ -8226,6 +8234,7 @@
 |https://www.lanzous.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.meijutt.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.onetvb.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
+|https://www.ohmanhua.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('setConstant, __jsadsuccess, true,preventSetTimeout, checkSiteNormalLoad, popMagic,setConstant, NativeAd, noopFunc,abortOnPropertyWrite, __DOMAIN')</script>@
 |https://www.phb123.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.ppx26.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.gaoqingkong.com/$s@</body>@<script>fuckcss('li.post.box:contains(红包)')</script></body>@
@@ -8246,6 +8255,7 @@
 |https://www.v2ex.com/$s@</body>@<script>fuckcss('.sidebar_compliance')</script></body>@
 |https://www.wudidy.net/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.zimuku.cn/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
+|https://www.zhenbuka.com$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('a[href="https://www.ybvip1879.vip"]')</script>@
 |https://wangpan007.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://yaoshe26.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://yaoshe28.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
