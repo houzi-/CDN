@@ -38,6 +38,17 @@
 @@|http://logstat.laosiji.com/index.html?
 @@||cnzz.com/q_stat.php$domain=qd.alibaba.com
 @@||mmstat.com/eg.js$domain=rjno1.com
+! ---- 2020-09-16 ----
+|https://www.runoob.com##.adsbygoogle,#sidebar-right-re
+|https://www.googletagmanager.com/gtag/js?
+|https://static.runoob.com/images/re/
+|https://static.studygolang.com/static/img/ad/
+|https://di.phncdn.com/www-static/js/
+|https://ci.phncdn.com/www-static/js/
+|https://static.trafficjunky.com/
+|https://www.vfthr.com/servlet/events?type=
+|https://cn.pornhub.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead, smpop,setConstant, HTMLElement.prototype.attachShadow, null,abortOnPropertyWrite, isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script>@
+! ---- 2020-09-16 ----
 |http://*/adright.$domain=elecfans.com
 |http://d1.5h.com^
 |http://www.52movieba.com/img/ad*
