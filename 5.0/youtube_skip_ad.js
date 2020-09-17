@@ -1,3 +1,10 @@
+// @author             vince ding
+// @match              *://www.youtube.com/*
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    var closeAd=function (){
         var css = '.video-ads .ad-container .adDisplay,#player-ads,.ytp-ad-module,.ytp-ad-image-overlay{ display: none!important; }',
             head = document.head || document.getElementsByTagName('head')[0],
             style = document.createElement('style');
