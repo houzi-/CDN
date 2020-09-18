@@ -43,11 +43,13 @@
 |https://www.googletagmanager.com/gtag/js?
 |https://static.runoob.com/images/re/
 |https://static.studygolang.com/static/img/ad/
-|https://di.phncdn.com/www-static/js/
-|https://ci.phncdn.com/www-static/js/
+|https://ci.phncdn.com/www-static/js/vmobile/atatus.js?
+|https://ci.phncdn.com/www-static/js/vmobile/premium/premium-modals.js?
+|https://ci.phncdn.com/www-static/js/vmobile/premium/slider.js?
+|https://ci.phncdn.com/www-static/js/vmobile/flipbook.js?
 |https://static.trafficjunky.com/
 |https://www.vfthr.com/servlet/events?type=
-|https://cn.pornhub.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead, smpop,setConstant, HTMLElement.prototype.attachShadow, null,abortOnPropertyWrite, isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script>@
+|https://cn.pornhub.com/$s@<head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead, smpop,setConstant, HTMLElement.prototype.attachShadow, null,abortOnPropertyWrite, isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script>@
 ! ---- 2020-09-16 ----
 |http://*/adright.$domain=elecfans.com
 |http://d1.5h.com^
@@ -377,9 +379,6 @@ m.520boxtv.com##.logo_top
 ||https://haha.mx##.joke-list-anecdote,.ad-2,.ad-6,.adsbygoogle
 ||https://huarenjie.net##DIV[style*="top: 50px;"]
 ||https://laomoit.com###sidebar A[target="_blank"] > IMG,.cboxElement + CENTER[style=" padding-top:10px; "]
-||https://pornhub.com##body > .wrapper + div[class][-ext-has='> .removeAdLink']
-||https://pornhub.com##.realsex,.removeAdsStyle,.ad-link,#hAd
-
 |https://hao.360.cn###header-patch,#daily-hotwords,#top_activity,#top_hotsite,#activity,#iguess,.mbar-bd,#festival-logoskin,#plane > .plane-hd,.cangbao_redbags,#top-full-column-tips,#plane-ria,.ad-top
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://bbs.hh010.com/$s@var freeaddon_banadblock = 0;@var freeaddon_banadblock = 30;@
