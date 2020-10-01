@@ -1,4 +1,4 @@
-window.open-defuser.js application/javascript
+//window.open-defuser.js application/javascript
 (function() {
 	var wo = window.open,
 		target = '{{1}}',
