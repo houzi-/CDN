@@ -1,5 +1,5 @@
 !x  -----------------------------------------------------------------------------------------------------------------
-!x  -----[KoolProxy 3.8.4]
+!x  -----[KoolProxy 3.8.5]
 !x  -----Thanks: From lvba Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -49,7 +49,7 @@
 |https://ci.phncdn.com/www-static/js/vmobile/flipbook.js?
 |https://static.trafficjunky.com/
 |https://www.vfthr.com/servlet/events?type=
-|https://cn.pornhub.com/$s@<head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead, smpop,setConstant, HTMLElement.prototype.attachShadow, null,abortOnPropertyWrite, isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script>@
+|https://cn.pornhub.com/$s@<head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead, smpop,setConstant, HTMLElement.prototype.attachShadow null,abortOnPropertyWrite, isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script><script src="https://down.cmccw.xyz/5.0/window.open-defuser.js"></script>@
 ! ---- 2020-09-16 ----
 |http://*/adright.$domain=elecfans.com
 |http://d1.5h.com^
