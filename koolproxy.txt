@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2020-10-03 10:30
-!x  -----update[video]: 2020-10-04 10:13
+!x  -----update[rules]: 2020-10-09 21:45
+!x  -----update[video]: 2020-10-09 22:00
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -80,7 +80,6 @@
 @@|http://b.haoqq.me/2.js
 @@|http://bbs.tigtag.com/tigtag_custom/include/nav.html
 @@|http://bss.pandora.xiaomi.com/video/callback/xiaomiAuth?
-!@@|http://cibn.api.3g.cp31.ott.cibntv.net/adv/startpage
 @@|http://c.gdt.qq.com/gdt_click.
 @@|http://c1.keyrun.cn$domain=400gb.com|pipipan.com|bego.cc
 @@|http://cb.baidu.com/crossdomain.xml
@@ -194,7 +193,6 @@
 @@|http://p.yiqifa.com/
 @@|http://p0.qhimg.com/s/*.css
 @@|http://pagead$domain=netsh.org|colayun.com|400gb.com|ctfile.com|dapenti.com|www.tu265.com|www.neihan8.com
-!@@|http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=receive-a-sms.com
 @@|http://paopao.iqiyi.com/apis/
 @@|http://pcad.video.baidu.com/
 @@|http://pic.fastapi.net/sdk/js/ai.m.js
@@ -2764,6 +2762,7 @@
 |http://ra.gtimg.com/sc/vqq/crystal-min.js$domain=v.qq.com
 |http://ra.gtimg.com/uv/1712104/index.js$script
 |http://ra.gtimg.com/web/crystal/v$script
+|http://raddus.bayescom.com/raddus
 |http://red-dot.yy.com/reddot/getReddotMap
 |http://redian.xiaohua.com/templates/lieqi/js/_banner.js
 |http://res.3g.cn/js/noblockme/da_*.js?v=
@@ -4067,6 +4066,9 @@
 |https://ax.ifeng.com
 |https://acg.gamersky.com/gsinc/content_bg.js$script
 |https://api.gamer.com.tw/mobile_app/ad/
+|https://ads.superad.cc
+|https://adt.xdrig.com
+|https://adashxgc.ut.taobao.com/rest/gc
 |https://ad-specs.guoshipartners.com/
 |https://admsmaterial.businessweekly.com.tw/Assets/OneAD/
 |https://adman.henghost.com/data/thread
@@ -4085,6 +4087,7 @@
 |https://api.newume.com/v1/data/ume-
 |https://b3.hoopchina.com.cn/web/module/dace/
 |https://bdcode.2345.com^
+|https://bd1-china.6789.com
 |https://becode.qiushibaike.com/common/e9w7.js
 |https://btrace.qq.com^
 |https://btbtt.us/view/image/QT_QT.jpg
@@ -4107,11 +4110,14 @@
 |https://d4.sina.com.cn^
 |https://d5.sina.com.cn^
 |https://d*.sina.com.cn/litong/
+|https://data.bilibili.com/log/web?
 |https://dm.aizhan.com/tps/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js
 |https://dm.aizhan.com/bvzdpzs.js
 |https://dp3.qq.com/qqcom/
 |https://delivery.dmkt-sp.jp
 |https://dm.aizhan.com^
+|https://dup.baidustatic.com/js/ds.js
+|https://dvs.china.com/js/chinaadclientV2.0.js
 |https://ehg-youtube.hitbox.com
 |https://erebor.douban.com^
 |https://e.stat.ykimg.com/
@@ -4164,6 +4170,7 @@
 |https://jsjs.nthyn.com/
 !|https://jspassport.ssl.qhimg.com
 |https://js.bttiantangs.com/bttt/d/js/acmsd/
+|https://js.penxiangge.com/
 |https://js.tv.itc.cn/site/play/v1/vip_discount_a0458d.js
 |https://js.tv.itc.cn/base/core/gg_
 |https://jwz.3conline.com/adpuba/
@@ -4353,6 +4360,7 @@
 |https://www.pconline.com.cn/_hux_/index.js$script
 |https://www.qdmm.com/javascript/SNDAADAltern.js
 |https://r.dmp.sina.cn/cm/sinaads_
+|https://raddus.bayescom.com/raddus
 |https://x.autoimg.cn/engine/root/fggxl.js
 |https://yt-adp.nosdn.127.net
 |https://*/pagead/lvz?
@@ -4444,6 +4452,8 @@
 ||https://hao123img.com/res/ecom/$third-party
 ||https://hao123img.com/res/js/common/erjiAdv.min.js
 ||https://hdc.maxli.cn^
+||https://hdslb.com/*/log/report/
+||https://hdslb.com/*/log-reporter.
 ||https://heygugu.com^
 ||https://hs1s1.cn^
 ||https://hslyqs.com^
@@ -4482,7 +4492,9 @@
 ||https://m-78.jp
 ||https://muusn.cn^
 ||https://msuik.cn^
-||https://mediav.com
+||https://mediav.
+||https://moatads.com^
+||https://naifei.shop/static/banner/banner_mobile.jpg
 ||https://nichibenren.or.jp
 ||https://nicorette.co.kr
 ||https://nga.cn/common_res/js_dscommon.js^
@@ -4503,6 +4515,7 @@
 ||https://qidian.com/javascript/SNDAADAltern.js$script
 ||https://qidian.com/javascript/_QIDIAN_.js$script
 ||https://qiaopiguniang.com^
+||https://quandangdang.net^
 ||https://s.ytimg.com/yts/jsbin/www-pagead-id-vfla_fkeg/www-pagead-id.js
 ||https://sdqoi2d.com^
 ||https://sinawap.com^
@@ -5906,6 +5919,7 @@
 ||g-ec4.images-amazon.com$domain=www.17qingsong.com
 ||g.dtv.cn.miaozhan.com
 ||g.haofan005.com
+||g.ousns.net^
 ||g1c5.com
 ||g1.163.com
 ||g1.taijuba.com^
@@ -6337,6 +6351,7 @@
 ||jrszhibo.com/m/js/lrtk.js
 ||jsqsuperglobalcdn.com/js/400biz.
 ||jstdjq.com
+||jstucdn.com/g3/
 ||jsyxfdj.com
 ||jsyzw132.com
 ||js.17173.com/ping.js
@@ -6344,6 +6359,7 @@
 ||js.bju888.com
 ||js.bxwns.com
 ||js.hhcskj.com
+||js.jstucdn.com/js/ad_37cs.js
 ||js.pub.tom.com
 ||js.tv.itc.cn/site/play/v1/vip_discount_a0458d.js
 ||js.union-wifi.com/zm.js?cid=*&dmac
@@ -6551,6 +6567,7 @@
 ||lwdown.com/user08/index_top
 ||lwdown.com/user08/user_*_
 ||lwtxt.net/gaogao/
+||lx167.com^
 ||lyaeccn.com
 ||lyhdream.com
 ||lyjz001.com
@@ -8119,6 +8136,7 @@
 |http://www.rjno1.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |http://www.rs05.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |http://www.rs05.com/$s@</body>@<script>fuckcss('.item-third-dl,li:contains(家里没矿),li:contains(支付宝),.slideBox');</script></body>@
+|http://www.rrys2020.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('#globalNav2')</script>@
 |http://www.tt27.tv/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |http://www.veryhuo.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |http://www.veryhuo.com/$s@</body>@<script>unHackcss.A('.down_ads.pad')</script></body>@
@@ -8241,6 +8259,7 @@
 |https://www.meijutt.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.onetvb.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.ohmanhua.com/$s@</head>@<script type="text/javascript" src="https://down.cmccw.xyz/KP/hide.js"></script>@
+|https://www.cocomanhua.com/$s@</head>@<script type="text/javascript" src="https://down.cmccw.xyz/KP/hide.js"></script>@
 |https://www.phb123.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.ppx26.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.gaoqingkong.com/$s@</body>@<script>fuckcss('li.post.box:contains(红包)')</script></body>@
@@ -11702,6 +11721,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://bbs.hupu.com##.hp-ad250-250
 |https://blog.csdn.net##.csdn-tracking-statistics.mb8.box-shadow
 |https://bbs.hupu.com##div#threadLeftAd.rukou-links,div#topPub
+|https://cn163.net##iframe[width="300"][height="250"]
 |https://ck101.com##.viewthread-leftfloatbox,.adTopBox.frameBase,.subListTop
 |https://daohang.qq.com##div[id^="AD_"],.m[pbflag="guess"],.adword,.banner-ad,.ads,#emailLogin > .hd-slider
 |https://diy.pconline.com.cn##DIV.modBoxA.hotPj + DIV.ivy230
@@ -11769,6 +11789,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://www.huya.com##.J_ad
 |https://www.ithome.com##[class^="rm-modal"]
 |https://www.nfmovies.com##.hy-layout.clearfix
+|https://www.nfmovies.com###artJoaDpXQgb,#altJoaDpXQgb,img[src="/static/202010-2.jpg"],img[src="/static/20200926-1.jpg"]
 |https://wangsuceshi.51240.com###ggwz___6,#ggwz___9,#ggwz___7
 |https://www.zhihu.com##.Card.TopstoryItem.TopstoryItem--advertCard.TopstoryItem-isRecommend
 |https://wap.baquge.tw/files/article/html/*.html$s@<script type="text/javascript" src="/js/common.js"></script>@@
@@ -12162,9 +12183,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://www.cnbeta.com/articles/$s@<section class="mt5 cber" style="display:none">*</section>@@
 |https://www.cnbeta.com/assets/js/pages/article.js?v=$s@var CheckBlock=function(options)@@
 |https://www.gaoqingkong.com/$s@var paypopupURL@@
-|https://www.nfmovies.com/js/play.js$s@var adsTime = 15;@var adsTime = 00;@
-!|https://www.nfmovies.com/$s@('#adleft span').click(@(@
-!|https://www.nfmovies.com/$s@('#adright span').click(@(@
+|https://www.nfmovies.com/js/play.js$s@var adsPage@//var adsPage@
+|https://www.nfmovies.com/js/play.js$s@var adsPausePage@//var adsPausePage@
+|https://www.nfmovies.com/$s@<span>关闭</span>@@
 |https://tieba.baidu.com/p/$s@<div class="l_post l_post_bright j_l_post clearfix ?????????? "@<div style="display:none"@
 |https://www.jb51.net/$s@<script>rjLoader();</script>*rjLoader(true);</script>@@
 |https://www.80s.tw/$s@<script src="http://80s.qucaigg.com*/script>@@
