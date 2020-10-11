@@ -1,3 +1,13 @@
+## 捐助作者
+
+如果您愿意给予我一点点支持与帮助，可以通过下面的方式向我捐助，爱你么么哒~~~ (/ω＼)
+
+| Alipay | Wechat | 
+| :------: | :------: | 
+| <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/alipay.jpg"> | <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/wechat.jpg"> | 
+
+❤❤❤
+
 ## koolshare改版固件安装KoolProxy列表
 
 |  软件中心   |                        arm380软件中心                        |                 arm384软件中心                  |                      hnd/axhnd软件中心                       |                    软路由-酷软                    |
@@ -10,16 +20,6 @@
 |  固件版本   |                    koolshare 梅林**380**                     |              koolshare 梅林**384**              |                     koolshare 梅林/官改                      |                   OpenWRT/LEDE                    |
 | 软件中心api |                          **1.0** 代                          |                   **1.5** 代                    |                          **1.5** 代                          |                    **1.5** 代                     |
 | 安装包下载地址  | [koolproxy_arm380.tar.gz](https://cdn.jsdelivr.net/gh/houzi-/CDN/binary/install/koolproxy_arm380.tar.gz) |   [koolproxy_arm384.tar.gz](https://cdn.jsdelivr.net/gh/houzi-/CDN/binary/install/koolproxy_arm384.tar.gz)  | [koolproxy_hnd.tar.gz](https://cdn.jsdelivr.net/gh/houzi-/CDN/binary/install/koolproxy_hnd.tar.gz) [koolproxy_AX32.tar.gz](https://cdn.jsdelivr.net/gh/houzi-/CDN/binary/install/koolproxy_AX32.tar.gz)|                         [koolproxy_X86_64.tar.gz](https://cdn.jsdelivr.net/gh/houzi-/CDN/binary/install/koolproxy_X86.tar.gz) |
-
-## 捐助作者
-
-如果您愿意给予我一点点支持与帮助，可以通过下面的方式向我捐助，爱你么么哒~~~ (/ω＼)
-
-| Alipay | Wechat | 
-| :------: | :------: | 
-| <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/alipay.jpg"> | <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/wechat.jpg"> | 
-
-❤❤❤
 
 ### 捐助者名单
 
