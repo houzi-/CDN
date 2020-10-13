@@ -12,6 +12,28 @@
 |http://*/*@*_*.exe
 ! ---- unsafe download ----
 ! ---- test rules ----
+|https://m.77kpp.com/template/*/ads/*
+|https://s.ssl.qhres.com/ssl/ab77b6ea7f3fbf79.js
+|https://mat1.gtimg.com/rain/bl20/json/8.js
+|https://ipv4.gdt.qq.com/get_client_ip
+|https://nex.163.com/q?
+!|https://cpro.baidustatic.com/cpro/ui/
+! -----------------------
+||https://i8ggwm.com^
+||https://hurom365.cn^
+||https://scorecardresearch.com^
+||https://criteo.com^
+|https://www.javbus.com/ads
+! -----------------------
+|https://www.ett.cc/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js"></script>${2}@
+|https://www.javbus.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.col-xs-12.col-md-4.text-center.ptb10')</script>${2}@
+|https://m.cnbeta.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('div[data-role="content"] > div[style^="text-align:"],a[href^="http://click.aliyun.com/"],.cooperation,.cbv:not(#cb_share),.cbimage-fixed,.adsbygoogle')</script>${2}@
+|https://m.ithome.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)')</script>${2}@
+|https://cdn.taboola.com$r@https://cdn.taboola.com/libtrc/impl*.js@https://down.cmccw.xyz/5.0/3x2.png@
+|https://v2ex.com$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.sidebar_units,.sidebar_compliance,.adsbygoogle,.fr > a[href^="https://www.digitalocean.com/"]')</script>${2}@
+|https://ssl.jcbdfyy.cn$r@https://ssl.jcbdfyy.cn/js/tb.min.js*@https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js@
+|https://m.77kpp.com$s@function advert@function advert_fuck@
+! -----------------------
 |https://www.right.com.cn/forum##img[src="https://www.right.com.cn/logo/zbz-1.gif"],#threadlisttableid > tbody:nth-child(10)
 |https://statics.woozooo.com/img/m*.js
 |http://livep.l.qq.com/livemsg

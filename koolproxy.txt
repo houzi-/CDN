@@ -508,7 +508,7 @@
 @@@@|https://lx.hi.163.com
 @@@@|https://l-rcd.iqiyi.com
 @@@@|https://nl-rcd.iqiyi.com
-@@@@|https://nex.163.com
+!@@@@|https://nex.163.com
 @@@@|https://n.3g.163.com
 @@@@|https://music.httpdns.c.163.com/
 @@@@|https://messaging.zhihu.com
