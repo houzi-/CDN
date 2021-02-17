@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-01-01 21:45
-!x  -----update[video]: 2021-01-01 20:40
+!x  -----update[rules]: 2021-02-10 11:08
+!x  -----update[video]: 2021-02-17 20:00
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -542,13 +542,14 @@
 !@@@@|https://static.iqiyi.com
 @@@@|https://sugar.zhihu.com
 @@@@|https://static.zhihu.com
-@@@@|https://s.youtube.com/api/
+!@@@@|https://s.youtube.com/api/
 @@@@|https://time.video.iqiyi.com
 @@@@||https://twitter.com
 @@@@|https://uop.umeng.com
 @@@@|https://vthumb.youku.com
 @@@@|https://vals.atm.youku.com/dot/video?
 @@@@|https://www.google.com
+!@@@@|https://youtubei.googleapis.com
 !@@@@|https://www.qidian.com/Javascript/ChapterPageHeader.js?t
 !@@@@|https://www.qidian.com/Javascript/qidian.bookchannel.js?
 !@@@@|https://www.qidian.com/Javascript/qidian.common.js?
@@ -4209,7 +4210,6 @@
 |https://s.ip-cdn.com/img/115-10.jpg
 |https://s2.zdmimg.com/www/delivery/ajs.php
 |https://s13.cnzz.com
-|https://s.youtube.com^
 |https://s.ssl.qhres.com/ssl/ab77b6ea7f3fbf79.js
 |https://s.ytimg.com/yts/jsbin/www-pagead
 |https://scss-prod-ue1-notif-22.adobesc.com/
@@ -4307,7 +4307,6 @@
 |https://yes1.feng.com/js.php?n=
 |https://yes1.feng.com/x.js
 |https://yes1.feng.com/frame.php?
-|https://youtube.com/ptracking?
 |https://youtubei.youtube.com/
 |https://youtube.112.2o7.net
 |https://youtube.2cnt.net
@@ -4351,7 +4350,6 @@
 !|https://passport.baidu.com/channel/unicast?channel_id
 |https://rabc1.iteye.com^
 |https://s0.2mdn.net/ads
-|https://stats.tubemogul.com/stats
 |https://ss1.bdstatic.com/*/plugins/every_cookie_
 |https://ue.17173cdn.com/a/www/index/2015/js/vda.js$script
 |https://ue.17173cdn.com/a/www/index/2016/js/seed.js?

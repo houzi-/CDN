@@ -12,6 +12,22 @@
 |http://*/*@*_*.exe
 ! ---- unsafe download ----
 ! ---- test rules ----
+||https://mydrivers.com##div.news_info > p:last-of-type
+
+||https://govjiangsu.cn^
+||https://sdqoi2d.com^
+||https://googlevideo.com/ptracking?pltype=adhost
+||https://googlevideo.com/videogoodput?
+||https://youtube.com/api/stats/ads
+||https://youtube.com/error_204
+
+|https://play.googleapis.com/log*
+|https://www.googleapis.com/adsmeasurement/*
+|https://pagead2.googlesyndication.com/pagead/
+|https://premiumyva.appspot.com/vmclickstoadvertisersite
+|https://s.youtube.com/api/stats/watchtime?adformat
+|https://s0.2mdn.net/ads/
+
 |https://m.77kpp.com/template/*/ads/*
 |https://s.ssl.qhres.com/ssl/ab77b6ea7f3fbf79.js
 |https://mat1.gtimg.com/rain/bl20/json/8.js
