@@ -8271,8 +8271,8 @@
 |https://www.lanzous.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.meijutt.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.onetvb.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
-|https://www.ohmanhua.com/$s@</head>@<script type="text/javascript" src="https://down.cmccw.xyz/KP/hide.js"></script>@
-|https://www.cocomanhua.com/$s@</head>@<script type="text/javascript" src="https://down.cmccw.xyz/KP/hide.js"></script>@
+|https://www.ohmanhua.com/$s@</head>@<script type="text/javascript" src="https://www.houzi-blog.top/KP/hide.js"></script>@
+|https://www.cocomanhua.com/$s@</head>@<script type="text/javascript" src="https://www.houzi-blog.top/KP/hide.js"></script>@
 |https://www.phb123.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.ppx26.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js charset=UTF-8></script></head>@
 |https://www.gaoqingkong.com/$s@</body>@<script>fuckcss('li.post.box:contains(红包)')</script></body>@
@@ -12842,6 +12842,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://zhongzi.in/$s@<script language="javascript">?function getCookie(name){*</script>@@
 |http://zhongzicili.$s@<div class="footer" >*/opensug.js"></script>@@
 !x  --------------------------------------------- redirect rules -------------------------------------------------------
-|https://api.rr.tv$r@https://api.rr.tv/user/privilege/list@https://down.cmccw.xyz/5.0/renren.js@
-|https://api.rr.tv$r@https://api.rr.tv/ad/getAll@https://down.cmccw.xyz/5.0/renren.js@
-|https://api.rr.tv$r@https://api.rr.tv/rrtv-video/v4plus/season/detail@https://down.cmccw.xyz/5.0/renren.js@
+|https://api.rr.tv$r@https://api.rr.tv/user/privilege/list@https://www.houzi-blog.top/5.0/renren.js@
+|https://api.rr.tv$r@https://api.rr.tv/ad/getAll@https://www.houzi-blog.top/5.0/renren.js@
+|https://api.rr.tv$r@https://api.rr.tv/rrtv-video/v4plus/season/detail@https://www.houzi-blog.top/5.0/renren.js@

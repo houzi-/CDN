@@ -29,7 +29,7 @@
 |https://www.javbus.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.col-xs-12.col-md-4.text-center.ptb10')</script>${2}@
 |https://m.cnbeta.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('div[data-role="content"] > div[style^="text-align:"],a[href^="http://click.aliyun.com/"],.cooperation,.cbv:not(#cb_share),.cbimage-fixed,.adsbygoogle')</script>${2}@
 |https://m.ithome.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)')</script>${2}@
-|https://cdn.taboola.com$r@https://cdn.taboola.com/libtrc/impl*.js@https://down.cmccw.xyz/5.0/3x2.png@
+|https://cdn.taboola.com$r@https://cdn.taboola.com/libtrc/impl*.js@https://www.houzi-blog.top/5.0/3x2.png@
 |https://v2ex.com$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.sidebar_units,.sidebar_compliance,.adsbygoogle,.fr > a[href^="https://www.digitalocean.com/"]')</script>${2}@
 |https://ssl.jcbdfyy.cn$r@https://ssl.jcbdfyy.cn/js/tb.min.js*@https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js@
 |https://m.77kpp.com$s@function advert@function advert_fuck@
@@ -71,7 +71,7 @@
 |https://ci.phncdn.com/www-static/js/vmobile/flipbook.js?
 |https://static.trafficjunky.com/
 |https://www.vfthr.com/servlet/events?type=
-|https://cn.pornhub.com/$s@<head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead,	smpop,setConstant,	HTMLElement.prototype.attachShadow	null,abortOnPropertyWrite,	isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script><script src="https://down.cmccw.xyz/5.0/window.open-defuser.js"></script>@
+|https://cn.pornhub.com/$s@<head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/fuckcss.js"></script><script>fuckcss('abortOnPropertyRead,	smpop,setConstant,	HTMLElement.prototype.attachShadow	null,abortOnPropertyWrite,	isAdblockOn,a[href^="http://ads.trafficjunky.net/"],.video-wrapper > #player + [class],.removeAdsStyle,.adsbytrafficjunky,.ad-link,#pb_template')</script><script src="https://www.houzi-blog.top/5.0/window.open-defuser.js"></script>@
 ! ---- 2020-09-16 ----
 |http://*/adright.$domain=elecfans.com
 |http://d1.5h.com^
