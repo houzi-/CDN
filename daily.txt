@@ -14,6 +14,8 @@
 ! ---- test rules ----
 ||https://mydrivers.com##div.news_info > p:last-of-type
 
+||https://xuanmin.wang
+
 ||https://govjiangsu.cn^
 ||https://sdqoi2d.com^
 ||https://googlevideo.com/ptracking?pltype=adhost
@@ -21,6 +23,7 @@
 ||https://youtube.com/api/stats/ads
 ||https://youtube.com/error_204
 
+|https://www.afmykaa.com
 |https://play.googleapis.com/log*
 |https://www.googleapis.com/adsmeasurement/*
 |https://pagead2.googlesyndication.com/pagead/
