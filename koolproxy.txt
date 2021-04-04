@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-02-21 18:00
-!x  -----update[video]: 2021-03-26 23:00
+!x  -----update[rules]: 2021-04-04 18:30
+!x  -----update[video]: 2021-04-04 20:00
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -488,7 +488,7 @@
 @@@@|https://haojia-api.smzdm.com
 @@@@|https://ifs.tanx.com
 @@@@|https://iqid.iqiyi.com
-@@@@|https://iyes.youku.com
+!@@@@|https://iyes.youku.com
 @@@@|https://g1.163.com
 !@@@@|https://g.alicdn.com
 @@@@||https://btrace.qq.com
@@ -515,7 +515,7 @@
 @@@@|https://messaging.zhihu.com
 @@@@|https://mail.sohu.com/fe/
 @@@@|https://m.ads.sohu.com
-@@@@|https://m.atm.youku.com
+!@@@@|https://m.atm.youku.com
 @@@@|https://msg.iqiyi.com
 @@@@||https://mkey.163.com
 !@@@@|https://mi.gdt.qq.com
