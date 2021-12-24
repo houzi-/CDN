@@ -21,10 +21,10 @@
     var skipAd=function(){
         //ytp-ad-preview-text
         //ytp-ad-skip-button
-        var skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button")||document.querySelector(".ytp-ad-skip-button-containe");
+        var skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button")||document.querySelector(".ytp-ad-skip-button-container");
         //var skipbtn=document.querySelector(".ytp-ad-skip-button ")||document.querySelector(".videoAdUiSkipButton ");
         if(skipbtn){
-           skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button")||document.querySelector(".ytp-ad-skip-button-containe");
+           skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button")||document.querySelector(".ytp-ad-skip-button-container");
            log("skip");
            skipbtn.click();
            if(skipInt) {clearTimeout(skipInt);}
