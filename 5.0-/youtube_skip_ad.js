@@ -21,10 +21,10 @@
     var skipAd=function(){
         //ytp-ad-preview-text
         //ytp-ad-skip-button
-        var skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ");
+        var skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button");
         //var skipbtn=document.querySelector(".ytp-ad-skip-button ")||document.querySelector(".videoAdUiSkipButton ");
         if(skipbtn){
-           skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ");
+           skipbtn=document.querySelector(".ytp-ad-skip-button.ytp-button")||document.querySelector(".videoAdUiSkipButton ")||document.querySelector(".ytp-ad-overlay-close-button");
            log("skip");
            skipbtn.click();
            if(skipInt) {clearTimeout(skipInt);}
