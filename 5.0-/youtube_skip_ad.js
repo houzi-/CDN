@@ -1,21 +1,17 @@
-// @author             vince ding
-// @match              *://www.youtube.com/*
-// ==/UserScript==
-
-(function() {
+ (function() {
     'use strict';
     var closeAd=function (){
-        var css = '.video-ads .ad-container .adDisplay,#player-ads,.ytp-ad-module,.ytp-ad-image-overlay{ display: none!important; }',
+        var css = '.video-ads,.video-ads .ad-container .adDisplay,#player-ads,.ytp-ad-module,.ytp-ad-image-overlay{ display: none!important; }',
             head = document.head || document.getElementsByTagName('head')[0],
             style = document.createElement('style');
-
+ 
         style.type = 'text/css';
         if (style.styleSheet){
             style.styleSheet.cssText = css;
         } else {
             style.appendChild(document.createTextNode(css));
         }
-
+ 
         head.appendChild(style);
     };
     var skipInt;
@@ -39,8 +35,8 @@
               skipInt=setTimeout(skipAd,500);
          }
     };
-
+ 
     closeAd();
     skipAd();
-
+ 
 })();
