@@ -1,4 +1,4 @@
-const WEBSTORE_LINK = `https://chrome.google.com/webstore/detail/${chrome.runtime.id}`;
+const WEBSTORE_LINK = `https://chrome.google.com/webstore/detail/653347`;
 
 class Blocker {
   constructor(enabled) {
