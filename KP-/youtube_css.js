@@ -1,6 +1,6 @@
  (function() {
     var closeAd=function (){
-        var css = '#masthead-ad,#merch-shelf,#offer-module,#player-ads,.ytp-ad-progress-list{ display: none!important; }',
+        var css = '#masthead-ad,[class*="ytd-promoted-sparkles-text-search-renderer"],.ytd-promoted-sparkles-text-search-renderer,.ytd-carousel-ad-renderer,.badge-style-type-ad,[layout*="display-ad-"],.ytp-ad-progress-list,#merch-shelf,#player-ads,#offer-module{ display: none!important; }',
             head = document.head || document.getElementsByTagName('head')[0],
             style = document.createElement('style');
  
