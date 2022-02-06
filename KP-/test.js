@@ -1,1 +1,0 @@
-fuckcss('#masthead-ad,[class*="ytd-promoted-sparkles-text-search-renderer"],.ytd-promoted-sparkles-text-search-renderer,.ytd-carousel-ad-renderer,.badge-style-type-ad,[layout*="display-ad-"],.ytp-ad-progress-list,#merch-shelf,#player-ads,#offer-module')
