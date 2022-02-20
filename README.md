@@ -2,8 +2,8 @@
 
 如果您愿意给予我一点点支持与帮助，可以通过下面的方式向我捐助，爱你么么哒~~~ (/ω＼)
 
-| Alipay | Wechat | 
-| :------: | :------: | 
+| Alipay | Wechat | KoolProxy |
+| :------: | :------: | :------: | 
 | <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/alipay.jpg"> | <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/wechat.jpg"> |  | <img width="150" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/docs/image/koolproxy_rules.png"> | 
 
 ❤❤❤
