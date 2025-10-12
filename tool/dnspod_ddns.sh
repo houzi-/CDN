@@ -6,9 +6,10 @@
 # ----------------------------------------
 
 # === 配置部分 ===
-API_ID="597526"
-API_TOKEN="327865257c0f951d4908ab506793611d"
-DOMAIN="jason-lin.top"
+API_ID="123456"
+API_TOKEN="xxxxxxxxxcxcxcxcxccxcx"
+# www.xxxxx.com
+DOMAIN="xxxxx.com"
 SUB_DOMAIN="www"
 CHECK_URL="https://4.ipw.cn"   # 可换成 https://api.ipify.org
 LOG_FILE="/root/ddns/ddns.log"  # 日志文件路径
